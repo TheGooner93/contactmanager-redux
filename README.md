@@ -1,3 +1,3 @@
 # contactmanager-redux
 
-A simple Contact manager app, using React.js, and Redux, used to add, update and delete contact information, taken from a static source of data.
+A Contact manager app, using React.js, and Redux, used to add, update and delete contact information, taken from a static source of data.
